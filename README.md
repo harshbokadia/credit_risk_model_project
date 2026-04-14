@@ -82,9 +82,3 @@ credit-risk-model/
 
 All free and open source:
 `Python 3.10+` · `pandas` · `scikit-learn` · `XGBoost` · `SHAP` · `Optuna` · `imbalanced-learn` · `matplotlib` · `seaborn` · `Streamlit`
-
----
-
-## Resume bullet
-
-> Built an end-to-end credit default prediction system (Python, XGBoost, SHAP) on 30K accounts — achieving 0.67 AUC, capturing 88% of defaulters at the optimal threshold, and quantifying NT$11.3M net benefit via expected-loss simulation. Deployed as an interactive Streamlit app with live customer risk scoring and a business impact simulator.
